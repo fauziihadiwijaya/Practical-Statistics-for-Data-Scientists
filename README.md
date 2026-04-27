@@ -1,5 +1,7 @@
 # Practical Statistics for Data Scientists - Python Implementation
 
+<img src="Practical Statistics for Data Scientists.jpg" width="300">
+
 A practical, chapter-by-chapter implementation of concepts from **Practical Statistics for Data Scientists (2nd Edition)** by Peter Bruce, Andrew Bruce, and Peter Gedeck using Python.
 
 This repository is designed as a hands-on learning portfolio containing notebooks, code examples, visualizations, and real-world statistical applications for data science and machine learning.
