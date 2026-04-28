@@ -31,62 +31,18 @@ Each chapter contains notebooks with:
 
 ---
 
-## 📂 Chapters
+# 📂 Repository Structure
 
-### Chapter 1 — Exploratory Data Analysis
-- Structured data
-- Mean, median, mode
-- Variability
-- Distribution analysis
-- Correlation
-- Visualization techniques
-
-### Chapter 2 — Data and Sampling Distributions
-- Random sampling
-- Sample bias
-- Sampling distribution
-- Central Limit Theorem
-- Bootstrap
-- Confidence intervals
-
-### Chapter 3 — Statistical Experiments and Significance Testing
-- A/B Testing
-- Null & Alternative hypothesis
-- p-value
-- t-test
-- ANOVA
-- Chi-square test
-
-### Chapter 4 — Regression and Prediction
-- Linear regression
-- Multiple regression
-- Residual analysis
-- Model diagnostics
-- Polynomial regression
-
-### Chapter 5 — Classification
-- Logistic Regression
-- Naive Bayes
-- Discriminant Analysis
-- Confusion Matrix
-- ROC Curve
-- Precision / Recall
-
-### Chapter 6 — Statistical Machine Learning
-- K-Nearest Neighbors
-- Decision Trees
-- Random Forest
-- Bagging
-- Boosting
-- XGBoost
-
-### Chapter 7 — Unsupervised Learning
-- PCA
-- K-Means Clustering
-- Hierarchical Clustering
-- Model-Based Clustering
-
----
+```bash id="d7r0m3"
+Practical-Statistics-for-Data-Scientists/
+│── Chapter_01_Exploratory_Data_Analysis.ipynb
+│── Chapter_02_Data_and_Sampling_Distributions.ipynb
+│── Chapter_03_Statistical_Experiments_and_Significance_Testing.ipynb
+│── Chapter_04_Regression_and_Prediction.ipynb
+│── Chapter_05_Classification.ipynb
+│── Chapter_06_Statistical_Machine_Learning.ipynb
+│── Chapter_07_Unsupervised_Learning.ipynb
+│── README.md
 
 ## 🎯 Objectives
 
